@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/andy51002000/azure-pipeline-testapp/issues"
   },
-  "homepage": "https://github.com/andy51002000/azure-pipeline-testapp#readme"
+  "homepage": "https://github.com/andy51002000/azure-pipeline-testapp#readme",
+  "dependencies": {
+    "express.js": "^1.0.0"
+  }
 }
