@@ -1,0 +1,19 @@
+{
+  "name": "azure-pipeline",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andy51002000/azure-pipeline-testapp.git"
+  },
+  "author": "andylai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andy51002000/azure-pipeline-testapp/issues"
+  },
+  "homepage": "https://github.com/andy51002000/azure-pipeline-testapp#readme"
+}
